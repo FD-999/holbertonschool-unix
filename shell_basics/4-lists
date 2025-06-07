@@ -1,2 +1,4 @@
 #!/bin/bash 
-ls -la; ls -la ../; ls -la /boot 
+echo "Hal-hazırki dizin:"; ls -la
+echo "Valideyn dizini:"; ls -la ../
+echo "/boot dizini:"; ls -la /boot
